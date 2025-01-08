@@ -11,5 +11,4 @@ Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the
 Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
 4. Total PHEV Vehicles and % of Total PHEV Vehicles:
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
-Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
-![image](https://github.com/user-attachments/assets/540a61f7-47d7-4051-8734-39f30227f6b2)
+Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models
