@@ -1,5 +1,4 @@
-# ![It's Electric Logo Profile Picture](https://github.com/user-attachments/assets/1419dc15-67e0-4eab-9080-60b28171ef50)
-Electric-Vehicle-Analysis-Dashboard
+# Electric-Vehicle-Analysis-Dashboard
 KPI’S Requirement
 ![image](https://github.com/user-attachments/assets/c2004a22-ce34-4c95-ba3d-f63a193d8d18)
 
